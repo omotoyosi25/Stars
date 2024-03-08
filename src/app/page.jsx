@@ -23,16 +23,6 @@ export const data = [
     "image": "/ronaldo.jpg"
   },
   {
-    "name": "Lionel Messi",
-    "id": "messi",
-    "nationality": "Argentinian",
-    "profession": "Professional Footballer",
-    "net_worth": "$400 million",
-    "date_of_birth": "June 24, 1987",
-    "description": "Lionel Messi is a football icon, recognized for his remarkable dribbling and playmaking skills on the field.",
-    "image": "/messi.jpg"
-  },
-  {
     "name": "Yanni",
     "id": "yanni",
     "nationality": "Greek",
@@ -40,7 +30,7 @@ export const data = [
     "net_worth": "$50 million",
     "date_of_birth": "November 14, 1954",
     "description": "Yanni is a Greek musician known for his captivating instrumental compositions that blend various genres.",
-    "image": "/yanni.jpg"
+    "image": "/yanni.webp"
   },
   {
     "name": "Mason Greenwood",
@@ -50,7 +40,7 @@ export const data = [
     "net_worth": "N/A",
     "date_of_birth": "October 1, 2001",
     "description": "Mason Greenwood is a rising English football talent, making his mark as a forward for Manchester United.",
-    "image": "/mason_greenwood.jpg"
+    "image": "/mason_greenwood.jpeg"
   },
   {
     "name": "Didier Drogba",
@@ -73,16 +63,6 @@ export const data = [
     "image": "/fela.jpg"
   },
   {
-    "name": "Serena Williams",
-    "id": "serena",
-    "nationality": "American",
-    "profession": "Tennis Player",
-    "net_worth": "$200 million",
-    "date_of_birth": "September 26, 1981",
-    "description": "Serena Williams is a dominant tennis player, holding multiple Grand Slam titles and inspiring athletes worldwide.",
-    "image": "/serena.jpg"
-  },
-  {
     "name": "John Cena",
     "id": "john_cena",
     "nationality": "American",
@@ -90,7 +70,7 @@ export const data = [
     "net_worth": "$60 million",
     "date_of_birth": "April 23, 1977",
     "description": "John Cena is a wrestling icon who transitioned to Hollywood, known for his charismatic presence in and out of the ring.",
-    "image": "/john_cena.jpg"
+    "image": "/cena.avif"
   },
   {
     "name": "Beyoncé",
@@ -102,26 +82,7 @@ export const data = [
     "description": "Beyoncé is a global superstar, celebrated for her powerful vocals, dynamic performances, and social impact.",
     "image": "/beyonce.avif"
   },
-  {
-    "name": "Lady Gaga",
-    "id": "lady_gaga",
-    "nationality": "American",
-    "profession": "Singer, Actress",
-    "net_worth": "$320 million",
-    "date_of_birth": "March 28, 1986",
-    "description": "Lady Gaga is a versatile artist known for her unique style, musical innovation, and boundary-pushing creativity.",
-    "image": "/lady_gaga.jpg"
-  },
-  {
-    "name": "Steve Harvey",
-    "id": "steve_harvey",
-    "nationality": "American",
-    "profession": "Comedian, TV Host",
-    "net_worth": "$200 million",
-    "date_of_birth": "January 17, 1957",
-    "description": "Steve Harvey is a multifaceted entertainer recognized for his comedy, hosting, and motivational speaking.",
-    "image": "/steve_harvey.jpg"
-  }
+  
 ]
 
 
